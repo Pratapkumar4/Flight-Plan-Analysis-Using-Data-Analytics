@@ -1,0 +1,45 @@
+"Alaska Airlines||United" 2208.895
+"Cape Air||Cape Air||Delta" 1155.9
+"United||Alaska Airlines" 1079.3185714285714
+"Alaska Airlines||Alaska Airlines" 1063.9962500000001
+"United||Alaska Airlines||Alaska Airlines" 961.09
+Delta||United||Delta 862.2933333333334
+"Alaska Airlines||United||Delta" 821.5
+"United||United||Alaska Airlines" 797.1
+"Delta||Cape Air||Cape Air||Delta" 787.55
+"Alaska Airlines||Alaska Airlines||Delta" 767.49
+"Alaska Airlines" 748.105
+"United||Cape Air||Cape Air||United" 743.54
+"Delta||Cape Air||Cape Air||United" 719.6949999999999
+United||United||Delta 718.2822727272728
+"Delta||Alaska Airlines" 675.5777777777779
+"American Airlines||Cape Air||Cape Air||American Airlines" 662.15
+"American Airlines||American Airlines||American Airlines" 650.1
+United||Delta 616.1390909090909
+Delta||United||United 611.71
+"Delta||Delta||Alaska Airlines" 590.61
+"Boutique Air||Boutique Air||American Airlines" 583.01
+United||Delta||Delta 582.7
+Delta||Delta||Delta 571.5333333333333
+"Sun Country Airlines||Sun Country Airlines" 544.5966666666667
+"Alaska Airlines||Delta" 526.19
+"Spirit Airlines||Spirit Airlines||Spirit Airlines" 521.2366666666667
+Delta||United 518.2296774193549
+"Frontier Airlines||Frontier Airlines" 509.8638095238095
+"American Airlines" 487.80436274509805
+Delta||Delta 439.3724629080119
+"Key Lime Air||Key Lime Air||United" 413.1
+United||United 408.15993055555555
+"Cape Air||Cape Air" 403.9
+"American Airlines||Southern Airways Express||Southern Airways Express" 395.89
+United||United||United 385.1
+"JetBlue Airways||JetBlue Airways" 383.2217391304348
+"Key Lime Air||Key Lime Air||American Airlines" 364.70666666666665
+United 363.8548421052632
+Delta 363.6164563106796
+"Spirit Airlines||Spirit Airlines" 347.0579411764706
+"JetBlue Airways" 337.6526315789474
+"American Airlines||American Airlines" 297.79084598698483
+"Frontier Airlines" 255.55333333333334
+"Frontier Airlines||Frontier Airlines||Frontier Airlines" 244.1
+"Spirit Airlines" 228.58999999999997
